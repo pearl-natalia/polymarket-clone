@@ -105,7 +105,7 @@ This basic setup provides the foundation for:
 
 ## Repository Information
 
-Project repository: https://github.com/saakhoury/348
+Project repository: https://github.com/pearl-natalia/spotify-clone
 
 The repository contains:
 - Next.js application structure
