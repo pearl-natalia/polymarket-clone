@@ -1,4 +1,4 @@
--- First, clear existing data (optional)
+-- Clear existing data
 TRUNCATE TABLE users;
 
 -- Insert mock data

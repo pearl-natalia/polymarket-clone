@@ -101,7 +101,7 @@ export default function Home() {
 
   return (
     <div className="flex flex-col items-center justify-center min-h-screen p-8 gap-6">
-      <h1 className="text-2xl font-bold mb-4">Spotify Database Manager</h1>
+      <h1 className="text-2xl font-bold mb-4">Polymarket Database Manager</h1>
       
       {/* Operation Selector */}
       <div className="flex gap-2 mb-4">
